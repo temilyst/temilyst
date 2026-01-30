@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Temitope Ebo
 
-🎓 A graduate of Food and Nutrition from the Federal University of Agriculture, Abeokuta (FUNAAB), with a Second Class Upper degree.
+🎓 A graduate of Nutrition and Dietetics from the Federal University of Agriculture, Abeokuta (FUNAAB), with a Second Class Upper degree.
 
-📊 While my academic background lies in food science, my curiosity and passion for numbers, problem-solving, and technology led me to transition into the world of data analytics. Today, I'm a growing data analyst committed to turning raw data into meaningful stories and insights.
+📊 While my academic background lies in nutrition, food and health, my curiosity and passion for numbers, problem-solving, and technology led me to transition into the world of data analytics. Today, I'm a growing data analyst committed to turning raw data into meaningful stories and insights.
 
 ---
 
@@ -10,7 +10,7 @@
 
 Hello and welcome to my portfolio! My name is Temitope Ebo, and I am a data analyst with a passion for transforming data into actionable insights.
 
-I began my academic journey with a degree in Food and Nutrition at FUNAAB, but my interest in data and its potential to drive decision-making led me to explore a new path. This curiosity became a career pivot when I enrolled in a **Data Analytics certification program at Axia Africa**, where I gained hands-on experience with **Excel**, **SQL**, and **Power BI** through practical, real-world business scenarios.
+I began my academic journey with a degree in  Nutrition and Dietetics at FUNAAB, but my interest in data and its potential to drive decision-making led me to explore a new path. This curiosity became a career pivot when I enrolled in a **Data Analytics certification program at Axia Africa**, where I gained hands-on experience with **Excel**, **SQL**, and **Power BI** through practical, real-world business scenarios.
 
 ---
 
@@ -35,6 +35,7 @@ If you're interested in working together or want to chat about data, feel free t
 - **Data Analysis:** Excel, SQL  
 - **Data Visualization:** Power BI  
 - **Other Tools:** GitHub, Jupyter Notebook (beginner level)
+- **SAP Analytics Cloud (beginner level)
 
 ---
 
