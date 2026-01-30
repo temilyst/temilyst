@@ -35,7 +35,7 @@ If you're interested in working together or want to chat about data, feel free t
 - **Data Analysis:** Excel, SQL  
 - **Data Visualization:** Power BI  
 - **Other Tools:** GitHub, Jupyter Notebook (beginner level)
-- **SAP Analytics Cloud (beginner level)
+- SAP Analytics Cloud (beginner level)
 
 ---
 
